@@ -1,0 +1,60 @@
+html {
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    margin: 0;
+}
+
+#section1 {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+}
+
+#radio {
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+    background-color: black;
+    left: 25vw;
+}
+
+#question {
+    position: relative;
+}
+
+#tagline {
+    position: relative;
+    top: 15vh; 
+}
+ 
+#section2 {
+    position: relative;
+    top: 100vh;
+    width: 100vw;
+    height: 100vh;
+    background-color: F037A5;
+}
+
+#notif {
+    position: relative;
+    width: 95vw;
+    height: 50vh;
+    top: 2vh; 
+    background-color: black;
+    left: 2.5vw;
+}
+
+#notiftext {
+
+}
+
+#section3 {
+    width: 100vw;
+}
+
+#section4 {
+    width: 100vw;
+}
